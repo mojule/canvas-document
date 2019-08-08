@@ -1,0 +1,22 @@
+{
+  "name": "@mojule/canvas-document",
+  "version": "0.0.1",
+  "description": "Composite text and images onto a canvas",
+  "main": "./dist/index.js",
+  "typings": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "examples": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojule/canvas-document.git"
+  },
+  "keywords": [],
+  "author": "Nik Coughlin <nrkn.com@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mojule/canvas-document/issues"
+  },
+  "homepage": "https://github.com/mojule/canvas-document#readme"
+}
